@@ -1,0 +1,9 @@
+Graphe,Algorithme,Temps,Iterations
+graphe1.txt,Bellman-Ford,0.0000024,2
+graphe1.txt,Dijkstra,0.0000049,15
+graphe2.txt,Bellman-Ford,0.0000016,2
+graphe2.txt,Dijkstra,0.0000031,9
+graphe3.txt,Bellman-Ford,0.0000026,2
+graphe3.txt,Dijkstra,0.000003,9
+graphe4.txt,Bellman-Ford,0.0000019,2
+graphe4.txt,Dijkstra,0.0000031,13
